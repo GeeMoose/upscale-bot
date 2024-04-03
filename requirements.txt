@@ -1,0 +1,6 @@
+py-cord
+fuzzywuzzy==0.18.0
+PyYAML==6.0
+numpy
+opencv_python_headless
+requests
